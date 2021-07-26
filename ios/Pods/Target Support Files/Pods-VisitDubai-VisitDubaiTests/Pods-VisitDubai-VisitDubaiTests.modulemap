@@ -1,0 +1,6 @@
+module Pods_VisitDubai_VisitDubaiTests {
+  umbrella header "Pods-VisitDubai-VisitDubaiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
